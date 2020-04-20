@@ -1,2 +1,2 @@
 # Snake
-Snake Game
+Snake feito usando a mesma base de github.com/JoeyJohnJo/Pong
